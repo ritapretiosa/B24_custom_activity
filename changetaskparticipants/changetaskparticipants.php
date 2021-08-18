@@ -11,7 +11,7 @@ Loader::includeModule('tasks');
 Loc::loadMessages(__FILE__);
 
 /**
- * Действие "Звонок клиенту с анкетой".
+ * Действие "Смена участников задачи"
  */
 class CBPchangetaskparticipants extends CBPActivity
 {
